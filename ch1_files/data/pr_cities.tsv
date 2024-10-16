@@ -1,0 +1,25 @@
+city	state	adoptYear	repealYear	firstElection	lastElection	outcomeRepeal	otherRepealAttempts	otherAdoptAttempts	repealCode
+Ashtabula	OH	1915	1929	1915	1929		"1920, 1926"		
+Boulder	CO	1917	1947	1917	1947		"1923, 1925, 1933"		
+Kalamazoo	MI	1918	1920	1918	1919				C
+Sacramento	CA	1920	1922	1921	1921				C
+West Hartford	CT	1921	1923	1921	1922				L
+Cleveland	OH	1921	1931	1923	1931		"1925, 1927, 1928, 1929"		
+Cincinnati	OH	1924	1957	1925	1955	"Block (8R, 1D)"	"1936, 1939, 1947, 1954"	1988	
+Hamilton	OH	1926	1960	1927	1959		"1929, 1933, 1933, 1944"		
+Toledo	OH	1935	1949	1935	1949	Wards (8R 1D see NMR)	"1935, 1937, 1945, 1946"		
+Wheeling	WV	1935	1950	1935	1949		1938		
+New York	NY	1936	1947	1937	1947		"1938, 1940"		
+*Norris	TN	1936	1947	1937	1945				S
+Yonkers	NY	1940	1948	1941	1947	Wards (7D 5R MayorR see NMR)	1942		
+Cambridge	MA	1940	NA	1941	NA		"1952, 1953, 1957, 1961, 1965"	1938	
+Lowell	MA	1943	1957	1943	1957		1955		
+Long Beach	NY	1943	1947	1945	1947	Block (5D see NMR)			
+Coos Bay	OR	1944	1948	1946	1946			1943	
+Saugus	MA	1947	1951	1948	1950				
+Worcester	MA	1947	1960	1949	1959		1959		
+Medford	MA	1947	1952	1949	1951				
+Quincy	MA	1947	1952	1949	1951				
+Revere	MA	1947	1955	1949	1955		"1952, 1953"		
+Hopkins	MN	1947	1959	1948	1959				
+*Oak Ridge	TN	1948	1959	1949	1957				L

@@ -7,7 +7,7 @@ Code and data are organized by chapter. I will endeavor to provide a readme file
 
 If you use any of this, please cite:
 
-Santucci, Jack. 2022. <i>More Parties or No Parties: The Politcs of Electoral Reform in America.</a> Oxford University Press.
+Santucci, Jack. 2022. <i>More Parties or No Parties: The Politcs of Electoral Reform in America.</i> Oxford University Press.
 
 If you use the data on Bucklin-voting incidence from chapter 3, please cite:
 

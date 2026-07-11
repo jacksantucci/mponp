@@ -1,7 +1,7 @@
 # Replication materials for <em>More Parties or No Parties</em>
 
 This repository contains R code and data to produce the analyses, figures, and tables in <a href=
-"https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields.
+"https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields. The book focused on adoption of, repeal of, and legislative behavior under the single transferable vote (STV) form of proportional representation in U.S. cities up to about 1960.
 
 Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. I wrote the R code over several years in many versions of the program. I last ran all of it in February 2022, minus the analysis of spending in chapter 6.
 
@@ -25,3 +25,5 @@ Chapter 2: No data.
 Chapter 3: Incidence of single-seat (Bucklin) reforms in cities, 1909-40. Precinct-level results for several referendums in Los Angeles, March 1913, including one on party-list proportional representation.
 
 Chapter 4: Yes/no shares on 50 referendums to adopt STV, almost all as part of council-manager charters, 1900-56. Analysis of 61 charter referendums by county gubernatorial partisanship, 1900-60, and whether the proposed package included the single transferable vote. County partisanship came from ICPSR Study 1. Precinct-level referendum and mayoral-election results for Brockton, Mass. (1955), Waterbury, Conn. (1939), and Worcester, Mass. (1947). Precinct-level mayoral primary results for Worcester, Mass. (same).
+
+Chapter 5: Table of which cities did and did not have "good government" party slates alongside their STV elections.

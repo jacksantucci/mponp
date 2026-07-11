@@ -29,3 +29,9 @@ Chapter 4: Yes/no shares on 50 referendums to adopt STV, almost all as part of c
 Chapter 5: Table of which cities did and did not have "good government" party slates alongside their STV elections.
 
 Chapter 6: Two-way fixed-effects analysis of aggregate spending under council-manager charters with STV, such charters without it, and under no reform at all (from the perspective of the council-manager movement). <em>NOTE: these data are on an old hard drive, and I still need to locate them.</em>
+
+Chapter 7: Council roll calls and STV election results for Cincinnati (1925-57), New York City (1937-47), and Worcester (1949-60). Partisan division of New York City Board of Estimate (same period). Election results for Cambridge, Mass. (1941-69).
+
+Chapter 8: No data.
+
+Appendix: Candidate entry for Cincinnati (1925-55), New York City (1937-45), and Worcester (1949-59). Precinct-level party registration and results for repeal referendum in New York City (1947). Precinct-level gubernatorial voting and results for repeal referendum in Worcester (1960). Ward-level results for repeal referendums in Cincinnati with ward-level first-choice votes from the preceding STV elections (1936, 1939, 1947, and 1957; no data are available for 1954). 

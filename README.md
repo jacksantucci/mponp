@@ -20,4 +20,8 @@ Ballots in Progressive Era New Jersey." Unpublished manuscript, Drexel Universit
 
 Chapter 1: Dates of STV adoption, repeal, and first/last election for the 24 cases considered. Later work revealed two more cases. Of the 26, 22 were for government elections, and all of those are covered here.
 
-Coming soon...
+Chapter 2: No data.
+
+Chapter 3: Incidence of single-seat (Bucklin) reforms in cities, 1909-40. Precinct-level results for several referendums in Los Angeles, March 1913, including one on party-list proportional representation.
+
+Chapter 4: Yes/no shares on 50 referendums to adopt STV, almost all as part of council-manager charters, 1900-56. Analysis of 61 charter referendums by county gubernatorial partisanship, 1900-60, and whether the proposed package included the single transferable vote. County partisanship came from ICPSR Study 1. Precinct-level referendum and mayoral-election results for Brockton, Mass. (1955), Waterbury, Conn. (1939), and Worcester, Mass. (1947). Precinct-level mayoral primary results for Worcester, Mass. (same).

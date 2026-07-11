@@ -1,4 +1,4 @@
-# More Parties or No Parties (mponp)
+# Replication materials for <em>More Parties or No Parties</em>
 
 This repository contains R code and data to produce the analyses, figures, and tables in <a href=
 "https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields.

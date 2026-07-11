@@ -18,4 +18,6 @@ Ballots in Progressive Era New Jersey." Unpublished manuscript, Drexel Universit
 
 <h2>Overview of folders</h2>
 
+Chapter 1: Dates of STV adoption, repeal, and first/last election for the 24 cases considered. Later work revealed two more cases. Of the 26, 22 were for government elections, and all of those are covered here.
+
 Coming soon...

@@ -14,7 +14,7 @@ Santucci, Jack. 2022. <i>More Parties or No Parties: The Politcs of Electoral Re
 If you use the data on Bucklin-voting incidence from chapter 3, please cite:
 
 Rosenthal, Andrew and Jack Santucci. 2021. "The Factional Politics of Nonpartisan Reform: The Rise and Fall of Ranked
-Ballots in Progressive Era New Jersey." Unpublished manuscript.
+Ballots in Progressive Era New Jersey." Unpublished manuscript, Drexel University.
 
 <h2>Overview of folders</h2>
 

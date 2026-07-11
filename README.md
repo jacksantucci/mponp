@@ -27,3 +27,5 @@ Chapter 3: Incidence of single-seat (Bucklin) reforms in cities, 1909-40. Precin
 Chapter 4: Yes/no shares on 50 referendums to adopt STV, almost all as part of council-manager charters, 1900-56. Analysis of 61 charter referendums by county gubernatorial partisanship, 1900-60, and whether the proposed package included the single transferable vote. County partisanship came from ICPSR Study 1. Precinct-level referendum and mayoral-election results for Brockton, Mass. (1955), Waterbury, Conn. (1939), and Worcester, Mass. (1947). Precinct-level mayoral primary results for Worcester, Mass. (same).
 
 Chapter 5: Table of which cities did and did not have "good government" party slates alongside their STV elections.
+
+Chapter 6: Two-way fixed-effects analysis of aggregate spending under council-manager charters with STV, such charters without it, and under no reform at all (from the perspective of the council-manager movement). NOTE: these data are on an old hard drive, and I still need to locate them.

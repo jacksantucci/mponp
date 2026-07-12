@@ -3,7 +3,7 @@
 This repository contains R code and data to produce the analyses, figures, and tables in <a href=
 "https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields. The book focused on adoption of, repeal of, and legislative behavior under the single transferable vote (STV) form of proportional representation in U.S. cities through about 1960.
 
-Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. I wrote the R code over several years in many versions of the program. I last ran all of it in February 2022, minus the analysis of spending in chapter 6.
+Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. I wrote the R code over several years in many versions of the program. I last ran all of it in February 2022, minus the analysis of spending in chapter 6. Please feel free to email me any questions.
 
 <h2>Citation</h2>
 

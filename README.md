@@ -20,7 +20,7 @@ Ballots in Progressive Era New Jersey." Unpublished manuscript, Drexel Universit
 
 Chapter 1: Dates of STV adoption, repeal, and first/last election for the 24 cases considered. Later work revealed two more cases. Of the 26, 22 were for government elections, and all of those are covered here.
 
-Chapter 2: No data.
+Chapter 2: No data; no folder.
 
 Chapter 3: Incidence of single-seat (Bucklin) reforms in cities, 1909-40. Precinct-level results for several referendums in Los Angeles, March 1913, including one on party-list proportional representation.
 
@@ -32,6 +32,6 @@ Chapter 6: Two-way fixed-effects analysis of aggregate spending under council-ma
 
 Chapter 7: Council roll calls and STV election results for Cincinnati (1925-57), New York City (1937-47), and Worcester (1949-60). Partisan division of New York City Board of Estimate (same period). Election results for Cambridge, Mass. (1941-69).
 
-Chapter 8: No data.
+Chapter 8: No data; no folder.
 
 Appendix: Candidate entry for Cincinnati (1925-55), New York City (1937-45), and Worcester (1949-59). Precinct-level party registration and results for repeal referendum in New York City (1947). Precinct-level gubernatorial voting and results for repeal referendum in Worcester (1960). Ward-level results for repeal referendums in Cincinnati with ward-level first-choice votes from the preceding STV elections (1936, 1939, 1947, and 1957; no data are available for 1954). 

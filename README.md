@@ -3,7 +3,7 @@
 This repository contains R code and data to produce the analyses, figures, and tables in <a href=
 "https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields. The book focused on adoption of, repeal of, and legislative behavior under the single transferable vote (STV) form of proportional representation in U.S. cities through about 1960.
 
-Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. I wrote the R code over several years in many versions of the program. I last ran all of it in February 2022, minus the analysis of spending in chapter 6. Please feel free to email me any questions.
+Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. Please feel free to <a href="mailto:jack.santucci@gmail.com">e-mail</A> me any questions.
 
 <h2>Citation</h2>
 
@@ -34,4 +34,4 @@ Chapter 7: Council roll calls and STV election results for Cincinnati (1925-57),
 
 Chapter 8: No data; no folder.
 
-Appendix: Candidate entry for Cincinnati (1925-55), New York City (1937-45), and Worcester (1949-59). Precinct-level party registration and results for repeal referendum in New York City (1947). Precinct-level gubernatorial voting and results for repeal referendum in Worcester (1960). Ward-level results for repeal referendums in Cincinnati with ward-level first-choice votes from the preceding STV elections (1936, 1939, 1947, and 1957; no data are available for 1954). 
+Appendix: Candidate entry for Cincinnati (1925-55), New York City (1937-45), and Worcester (1949-59). Precinct-level party registration and results for repeal referendum in New York City (1947). Precinct-level gubernatorial voting and results for repeal referendum in Worcester (1960). Ward-level results for repeal referendums in Cincinnati with ward-level first-choice votes from the preceding STV elections (1936, 1939, 1947, and 1957; no data are available for 1954). <em>NOTE: These data and the respective code are currently wiht the Chapter 7 materials. An update to this repository will move them into a dedicated folder.</em>

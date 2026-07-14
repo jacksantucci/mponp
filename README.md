@@ -30,7 +30,7 @@ Chapter 5: Table of which cities did and did not have "good government" party sl
 
 Chapter 6: Two-way fixed-effects analysis of aggregate spending under council-manager charters with STV, such charters without it, and under no reform at all (from the perspective of the council-manager movement). <em>NOTE: the data needed to go from "scratch" to results are on an old hard drive, and I still need to locate them.</em> First-choice votes by candidate and ward for Worcester currently are included.
 
-Chapter 7: Council roll calls and STV election results for Cincinnati (1925-57), New York City (1937-47), and Worcester (1949-60). Partisan division of New York City Board of Estimate (same period). Election results for Cambridge, Mass. (1941-69).
+Chapter 7: Council roll calls and STV election results for Cincinnati (1925-57), New York City (1937-47), and Worcester (1949-60). Partisan division of New York City Board of Estimate (same period). Election results for Cambridge, Mass. (1941-69). <em>NOTE: This folder name ends with "_new" because updates to the readODS package necessitated a new version of the file that processes 'vote leakage' in Cambridge.</em>
 
 Chapter 8: No data; no folder.
 

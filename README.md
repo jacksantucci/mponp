@@ -3,7 +3,7 @@
 This repository contains R code and data to produce the analyses, figures, and tables in <a href=
 "https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields. The book focused on adoption of, repeal of, and legislative behavior under the single transferable vote (STV) form of proportional representation in U.S. cities through about 1960.
 
-| ![Timeline of STV adoption](https://www.votequy.com/wp-content/uploads/2015/08/spells_25aug2015.png) | ![Spatial map of NYC Council](https://www.votequy.com/wp-content/uploads/2023/11/img_6676-1.jpg) |
+| ![Timeline of STV adoption](img/fig1.1_spells_stv.png) | ![Spatial map of NYC Council](img/nyc1938-47_forVailSymposium.png) |
 |:---:|:---:|
 
 Code and data are organized by chapter. I will endeavor to provide a readme file within each chapter's folder. Some files are more user-friendly than others. Please feel free to <a href="mailto:jack.santucci@gmail.com">e-mail</A> me any questions.

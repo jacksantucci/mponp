@@ -4,7 +4,8 @@ This repository contains R code and data to produce the analyses, figures, and t
 "https://tinyurl.com/moreparties"><i>More Parties or No Parties: The Politics of Electoral Reform in America</i></A>. The data may be useful to scholars of electoral systems, legislative studies, urban politics, American political development, historical political economy, and potentially other fields. The book focused on adoption of, repeal of, and legislative behavior under the single transferable vote (STV) form of proportional representation in U.S. cities through about 1960.
 
 | ![Timeline of STV adoption](img/fig1.1_spells_stv.png) | ![Use of majoritarian ranked-ballot systems through 1940](img/bucklin_map.png) |
-|![Spatial map of NYC Council](img/nyc1938-47_forVailSymposium.png)| ![Vote leakage and repeal in Worcester, 1949-59](img/fig7.9_leakage_worcester.png)|
+|:---:|:---:|
+| ![Spatial map of NYC Council](img/nyc1938-47_forVailSymposium.png) | ![Vote leakage and repeal in Worcester, 1949-59](img/fig7.9_leakage_worcester.png) |
 
 The materials are organized by chapter. This repository is a work-in-progress. Please <a href="mailto:jack.santucci@gmail.com">e-mail</A> me any questions.
 

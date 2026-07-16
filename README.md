@@ -6,7 +6,7 @@ This repository contains R code and data to produce the analyses, figures, and t
 | ![Timeline of STV adoption](img/fig1.1_spells_stv.png) | ![Spatial map of NYC Council](img/nyc1938-47_forVailSymposium.png) |
 |:---:|:---:|
 
-The materials are organized by chapter. This repository is a work-in-progress. Please feel free to <a href="mailto:jack.santucci@gmail.com">e-mail</A> me any questions.
+The materials are organized by chapter. This repository is a work-in-progress. Please <a href="mailto:jack.santucci@gmail.com">e-mail</A> me any questions.
 
 <h2>Citation</h2>
 
